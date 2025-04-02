@@ -1,3 +1,5 @@
 print("Hello World!")
 
-print("NIT Raipur")
+a = input("what is your name?")
+
+print("hello ", a)
